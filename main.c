@@ -8,8 +8,8 @@
 #include <windows.h>
 #endif
 
-#define HEIGHT 30
-#define WIDTH 30
+#define HEIGHT 10
+#define WIDTH 10
 
 float grid[HEIGHT][WIDTH] = {0};
 float nextGrid[HEIGHT][WIDTH] = {0};
