@@ -8,4 +8,5 @@
 
 ### Build
 
-On Windows machine just run the `build.bat` script (if you have the clang compiler installed) or use instead every other compiler to build the main file.
+* On a Windows machine, launch the build.bat file.
+* On Linux and MacOS, use the build.sh file.
